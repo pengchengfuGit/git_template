@@ -1,5 +1,10 @@
 # Git提交模版
+**type(scope):subject**
 
+**Reviewers:**
+
+**footer**
+# 
 subject           用来简要描述本次改动,概述就好了,不能超过50个字符 
 
 body              具体的修改信息,应该尽量详细,每行不能超过72个字符 
