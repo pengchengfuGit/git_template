@@ -14,7 +14,7 @@ Reviewers         评审人
 footer            放置写备注啥的,如果是Bug,可以把BugId放入 
 
 footer@bugId      Bug的Id 
- 
+# 
 type的值可以有很多,下面有几个我们常用到的 
 
 type(feat)        新功能 
@@ -34,7 +34,7 @@ type(test)        增加测试
 type(build)       改变了build工具 如grunt换成了npm 
 
 type(revert)      撤销上一次的commit 
-
+# 
 scope:用来说明此次修改的影响范围 可以随便填写任何东西 
 
 scope(all)        表示影响面大,如修改了网络框架,会对整个程序产生影响 
